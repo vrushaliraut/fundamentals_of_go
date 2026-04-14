@@ -1,0 +1,5 @@
+package predeclaredTypesAndDeclarations
+
+func TypesDeclaration() {
+
+}
