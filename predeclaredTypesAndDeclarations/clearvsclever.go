@@ -1,5 +1,0 @@
-package predeclaredTypesAndDeclarations
-
-func TypesDeclaration() {
-
-}

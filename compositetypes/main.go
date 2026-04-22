@@ -18,11 +18,16 @@ import "fmt"
 
 	// mapConcept()
 
-	structConcept()
+	// structConcept()
 
-	exercises()
-}
-*/
+	// exercises()
+
+	var name string
+	fmt.Println("Enter your name:")
+	fmt.Scan(&name)
+	fmt.Println("Hello,", name)
+
+}*/
 
 func exercises() {
 	sliceManipulation()

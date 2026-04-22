@@ -1,0 +1,5 @@
+package typesdeclaration
+
+func TypesDeclaration() {
+
+}
